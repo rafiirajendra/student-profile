@@ -40,7 +40,7 @@ export default function Home() {
 
           {/* Social Links */}
           <div className="flex gap-4 justify-center">
-            
+            <a
               href="https://github.com/rafiirajendra"
               className="px-6 py-2 bg-white text-slate-900 rounded-lg font-semibold hover:bg-blue-100 transition"
             >
